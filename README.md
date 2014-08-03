@@ -1,6 +1,8 @@
 Front-End-Starter
 =================
 
-H5BP, Bootstrap 2.3.2, Modernizer, Respond
+My personal front end starter setup. No frameworks, mobile first, html5boilerplate and modernizer.
+
+Eric Meyer reset can be added to this if desired.
 
 [WordPress Expert](http://baltimoredrew.com/wordpress/) , Drew Poland.
