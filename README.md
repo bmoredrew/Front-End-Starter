@@ -5,4 +5,4 @@ My personal front end starter setup. No frameworks, mobile first, html5boilerpla
 
 Eric Meyer reset can be added to this if desired.
 
-[WordPress Expert](http://baltimoredrew.com/wordpress/) , Drew Poland.
+[WordPress Developer](http://baltimoredrew.com/), Drew Poland.
